@@ -66,4 +66,4 @@ jobs:
         with:
           app-name: 'pwc-certificates'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_2015A7E1A4CD43C19DACEF5CC3C6BF9A }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_1FB84AC714F4472CA6EC4480D3173DFA }}
